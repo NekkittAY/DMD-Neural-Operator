@@ -1,0 +1,8 @@
+numpy~=2.2.4
+scipy~=1.15.2
+matplotlib~=3.10.1
+pandas~=2.2.3
+torch~=2.6.0
+pydmd~=2025.4.1
+tqdm~=4.67.1
+torchviz~=0.0.3
