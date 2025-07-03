@@ -5,6 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2507.01117)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Neural operator architecture that combines Dynamic Mode Decomposition (DMD) with deep learning for solving partial differential equations (PDEs).
