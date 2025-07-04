@@ -13,6 +13,8 @@ Neural operator architecture that combines Dynamic Mode Decomposition (DMD) with
 
 DMD-Neural-Operator is a novel neural operator architecture that synergistically combines Dynamic Mode Decomposition (DMD) with deep learning to efficiently solve partial differential equations (PDEs). By leveraging DMD for dimensionality reduction and feature extraction, the architecture identifies key modes and system dynamics within PDE solutions. These extracted features are then integrated with neural networks to facilitate operator learning, providing an efficient means of approximating PDE solutions in various parameterized settings. This hybrid approach significantly reduces computational costs compared to traditional methods like FEM, FDM, and FVM, while maintaining high solution reconstruction accuracy, as demonstrated on benchmark problems such as the heat equation, Laplace's equation, and Burgers' equation.
 
+* Sakovich, N., Aksenov, D., Pleshakova, E., & Gataullin, S. (2025). A Neural Operator based on Dynamic Mode Decomposition. arXiv preprint arXiv:2507.01117. https://doi.org/10.48550/arXiv.2507.01117
+
 <img width="800px" src="https://github.com/NekkittAY/DMD-Neural-Operator/blob/main/doc/DMDNeuralOperator_diagram.png"/>
 
 <img width="800px" src="https://github.com/NekkittAY/DMD-Neural-Operator/blob/main/doc/formula_1.png"/>
@@ -30,6 +32,7 @@ Solving partial differential equations (PDEs) for various initial and boundary c
 - [Technology Stack](#technology-stack)
 - [Features](#features)
 - [Algorithm](#algorithm)
+- [Article](#article)
 
 ## Overview
 
@@ -59,3 +62,14 @@ DMD-Neural-Operator is a hybrid approach that:
 <img width="800px" src="https://github.com/NekkittAY/DMD-Neural-Operator/blob/main/doc/Algorithm.png"/>
 
 <img width="800px" src="https://github.com/NekkittAY/DMD-Neural-Operator/blob/main/doc/NN_diagram.png"/>
+
+
+## Article 
+```
+@article{sakovich2025neural,
+  title={A Neural Operator based on Dynamic Mode Decomposition},
+  author={Sakovich, Nikita and Aksenov, Dmitry and Pleshakova, Ekaterina and Gataullin, Sergey},
+  journal={arXiv preprint arXiv:2507.01117},
+  year={2025}
+}
+```
