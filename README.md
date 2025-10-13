@@ -73,3 +73,16 @@ DMD-Neural-Operator is a hybrid approach that:
   year={2025}
 }
 ```
+
+```
+@article{sakovich2025neural,
+  title={A neural operator using dynamic mode decomposition analysis to approximate partial differential equations},
+  author={Sakovich, Nikita and Aksenov, Dmitry and Pleshakova, Ekaterina and Gataullin, Sergey},
+  journal={AIMS Mathematics},
+  volume={10},
+  number={9},
+  pages={22432--22444},
+  year={2025}
+}
+```
+
