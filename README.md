@@ -87,4 +87,6 @@ DMD-Neural-Operator is a hybrid approach that:
 }
 ```
 ## HuggingFace
-[DMD-Neural-Operator](https://huggingface.co/ScientificOperator/DMD-Neural-Operator/tree/main).
+
+Link to HuggingFace:
+[DMD-Neural-Operator](https://huggingface.co/ScientificOperator/DMD-Neural-Operator/tree/main)
