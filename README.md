@@ -85,4 +85,5 @@ DMD-Neural-Operator is a hybrid approach that:
   year={2025}
 }
 ```
-
+## HuggingFace
+[DMD-Neural-Operator](https://huggingface.co/ScientificOperator/DMD-Neural-Operator/tree/main).
