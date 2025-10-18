@@ -33,6 +33,7 @@ Solving partial differential equations (PDEs) for various initial and boundary c
 - [Features](#features)
 - [Algorithm](#algorithm)
 - [Article](#article)
+- [HuggingFace](#huggingface)
 
 ## Overview
 
