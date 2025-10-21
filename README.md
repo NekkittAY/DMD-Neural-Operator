@@ -45,11 +45,11 @@ DMD-Neural-Operator is a hybrid approach that:
 ## Technology Stack
 
 - **Core**: Python 3.8+
-- **Deep Learning**: PyTorch 2.6+
+- **Deep Learning**: PyTorch 2.6+, neuraloperator, deepxde
 - **DMD**: PyDMD 2025.4+
-- **Numerical Computing**: NumPy, SciPy
-- **Visualization**: Matplotlib
-- **Development**: tqdm, torchviz
+- **Numerical Computing**: NumPy, SciPy, Pandas, Scikit-Learn
+- **Visualization**: Matplotlib, torchviz
+- **Development**: tqdm, typing
 
 ## Features
 
